@@ -22,5 +22,8 @@
     "image manipulation",
     "crop"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "cordova-android": ">=10.0.0"
+  }
 }
